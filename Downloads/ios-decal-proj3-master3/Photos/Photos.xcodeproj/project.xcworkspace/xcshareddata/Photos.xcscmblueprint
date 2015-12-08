@@ -1,0 +1,107 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FB61020B3E374F8D537523B3FB1E0FC074EF428F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200" : 0,
+    "BB5BBC76C432769EB062D8EC976B62B715FB8173" : 0,
+    "FAE4317C0AD339F317935F9863494CB31647F712" : 0,
+    "E2644FA05FF6B34713717785B0B01D2AED2C4690" : 0,
+    "80CC06CC2B6681C15F7845DE889F2C8831C07F98" : 0,
+    "837FF594A407EF476ED83E9C9940090AD5B13B6F" : 0,
+    "B975C1B9DA8F8931DF7B7EC577607188199E1632" : 0,
+    "6EAA2F458324B4DBBF0C25CCA2DC0B47266A84D2" : 0,
+    "FB61020B3E374F8D537523B3FB1E0FC074EF428F" : 0,
+    "3C253C5A6D42836DDB7169DBC44109917318EEAB" : 0,
+    "6007736DDBC0BAF922D018AD26D289F3A8D537A5" : 0,
+    "8EC0520F4EF36EB5E66627CCF525D0C2AF439AEC" : 0,
+    "22932C4DA1B2AE9C5D8983015CF2634FF70E18BA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BEAEDB91-5EB7-413B-8BB0-315BCD81F7F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200" : "ios-decal-hw1\/",
+    "BB5BBC76C432769EB062D8EC976B62B715FB8173" : "CS61C\/",
+    "FAE4317C0AD339F317935F9863494CB31647F712" : "iOS-8-Swift-Programming-Cookbook\/",
+    "E2644FA05FF6B34713717785B0B01D2AED2C4690" : "ios-decal-check-in\/",
+    "80CC06CC2B6681C15F7845DE889F2C8831C07F98" : "frontend-nanodegree-arcade-game\/",
+    "837FF594A407EF476ED83E9C9940090AD5B13B6F" : "ios-decal-hw3\/",
+    "B975C1B9DA8F8931DF7B7EC577607188199E1632" : "ios-decal-proj1\/",
+    "6EAA2F458324B4DBBF0C25CCA2DC0B47266A84D2" : "ios-decal-proj4\/",
+    "FB61020B3E374F8D537523B3FB1E0FC074EF428F" : "ios-decal-proj3\/",
+    "3C253C5A6D42836DDB7169DBC44109917318EEAB" : "ios-decal-hw2\/",
+    "6007736DDBC0BAF922D018AD26D289F3A8D537A5" : "ArtificialIntelligence\/",
+    "8EC0520F4EF36EB5E66627CCF525D0C2AF439AEC" : "frontend-nanodegree-resume\/",
+    "22932C4DA1B2AE9C5D8983015CF2634FF70E18BA" : "ios-decal-proj2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Photos",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Photos\/Photos.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/ios-decal-proj2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22932C4DA1B2AE9C5D8983015CF2634FF70E18BA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/ios-decal-hw2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C253C5A6D42836DDB7169DBC44109917318EEAB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/ArtificialIntelligence.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6007736DDBC0BAF922D018AD26D289F3A8D537A5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/ios-decal-proj4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6EAA2F458324B4DBBF0C25CCA2DC0B47266A84D2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/frontend-nanodegree-arcade-game.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "80CC06CC2B6681C15F7845DE889F2C8831C07F98"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iosdecal\/ios-decal-hw3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "837FF594A407EF476ED83E9C9940090AD5B13B6F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/frontend-nanodegree-resume.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8EC0520F4EF36EB5E66627CCF525D0C2AF439AEC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/ios-decal-proj1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B975C1B9DA8F8931DF7B7EC577607188199E1632"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liufei11111\/CS61C.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB5BBC76C432769EB062D8EC976B62B715FB8173"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/ios-decal-hw1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/ios-decal-check-in.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2644FA05FF6B34713717785B0B01D2AED2C4690"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/iOS-8-Swift-Programming-Cookbook.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FAE4317C0AD339F317935F9863494CB31647F712"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yhwinnie\/ios-decal-proj3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB61020B3E374F8D537523B3FB1E0FC074EF428F"
+    }
+  ]
+}

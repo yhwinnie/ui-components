@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photos/PhotosCollectionViewController.swift"
+            timestampString = "469451667.250715"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photos/PhotosCollectionViewController.swift"
+            timestampString = "469451667.250715"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photos/PhotosCollectionViewController.swift"
+            timestampString = "471222824.902695"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "PhotosCollectionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photos.PhotosCollectionViewController.__deallocating_deinit"
+                  moduleName = "Photos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Downloads/ios-decal-proj3-master-3/Photos/Photos/PhotosCollectionViewController.swift"
+                  timestampString = "471222825.074741"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photos.PhotosCollectionViewController.init (Photos.PhotosCollectionViewController.Type)(collectionViewLayout : __ObjC.UICollectionViewLayout) -&gt; Photos.PhotosCollectionViewController"
+                  moduleName = "Photos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Downloads/ios-decal-proj3-master-3/Photos/Photos/PhotosCollectionViewController.swift"
+                  timestampString = "471222825.076139"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photos.PhotosCollectionViewController.init (Photos.PhotosCollectionViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Photos.PhotosCollectionViewController"
+                  moduleName = "Photos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Downloads/ios-decal-proj3-master-3/Photos/Photos/PhotosCollectionViewController.swift"
+                  timestampString = "471222825.076401"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photos.PhotosCollectionViewController.init (Photos.PhotosCollectionViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Photos.PhotosCollectionViewController&gt;"
+                  moduleName = "Photos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Downloads/ios-decal-proj3-master-3/Photos/Photos/PhotosCollectionViewController.swift"
+                  timestampString = "471222825.076711"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photos/ViewController.swift"
+            timestampString = "471234930.705042"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
