@@ -2,26 +2,276 @@
 html, body {
     padding: 0;
     margin: 0;
-    height: 100vh;
+
+    /*background-image: url("img/background-image.png");
+    background-repeat: no-repeat;
+    background-size: fill;
+    background-attachment: fixed;*/
+
+    background: url(img/background-image.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    color: white;
 }
 
-/*Middle*/
-.middle {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+html {
+    overflow: hidden;
+    height: 100%;
 }
 
-/*Logo*/
+body {
+    height: 100%;
+    overflow: auto;
+}
 
-.logo {
-    /*padding-top: 2em;*/
+h1 {
+    font-size: 2.5em;
+    color: white;
+    text-shadow: 0px 3px 2px #333;
+}
+
+p {
+    font-size: 1.5em;
+    font-weight: 700;
+    text-shadow: 0px 2px 2px #444;
+}
+
+/*Main*/
+
+.main {
+    margin: 0 auto;
+    padding-top: 6em;
+    padding-bottom: 2em;
+    text-align: center;
+    max-width: 900px;
+
+    color: white;
+    /*font-family: 'Open Sans', sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+    font-family: "Avenir Next" !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.main h1 {
+    font-size: 3em;
+    padding-bottom: 1em;
+    font-weight: 700;
+}
+
+.main .title {
+    margin: 0 auto;
+    width: 61%;
+    text-align: left;
+    padding-bottom: 2em;
+}
+
+.main .title p {
+    text-align: left;
+    font-size: 2em;
+    margin-bottom: 0px;
+}
+
+.main .title .left-side, .right-side {
+    float: left;
+}
+
+.main .title .left-side {
+    padding-top: 2em;
+}
+
+.main .title .left-side h1 {
+    padding: 0em;
+    margin: 0em;
+    font-size: 4em;
+}
+
+.main .title .right-side h1 {
+    padding: 0em;
+    margin: 0em;
+    font-size: 11em;
+    color: #6AED67;
+}
+
+.main .video {
+    margin-top: 16em;
+}
+
+/*Download*/
+
+.download {
+    margin: 0 auto;
+    padding-top: 4em;
+    padding-bottom: 2em;
+    text-align: center;
+    max-width: 900px;
+
+    color: white;
+    font-family: "Avenir Next" !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.download h1 {
+    font-size: 2.5em;
+    color: white;
+    text-shadow: 0px 3px 2px #333;
+}
+
+.download p {
+    font-size: 1.5em;
+    font-weight: 700;
+    text-shadow: 0px 2px 2px #444;
+}
+
+.download a {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+.download img {
+    width: 160px;
+    transition: 0.3s;
+}
+
+/*Screenshots*/
+
+.screenshots {
+    margin: 0 auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: center;
+    max-width: 900px;
+
+    color: white;
+    font-family: "Avenir Next" !important;
+    font-family: 'Open Sans', sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.screenshots h1 {
+    font-size: 2.5em;
+    text-shadow: 0px 3px 2px #333;
+}
+
+.screenshots .screenshots-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.screenshots .screenshots-images img {
+    margin: 10px;
+}
+
+/*About*/
+
+.about {
+    margin: 0 auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    max-width: 900px;
+
+    color: white;
+    font-family: "Avenir Next" !important;
+    font-family: 'Open Sans', sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.about h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+/*Team*/
+
+.team {
+    margin: 0 auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    max-width: 900px;
+
+    font-family: "Avenir Next" !important;
+    font-family: 'Open Sans', sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.team h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.teammates {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.team .teammate {
+    padding: 2em;
     text-align: center;
 }
 
-.logo img {
-    border-radius: 24px;
+.team .teammate img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+/*Contact*/
+
+.contact {
+    margin: 0 auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    max-width: 900px;
+    text-align: center;
+
+    font-family: "Avenir Next" !important;
+    font-family: 'Open Sans', sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.contact h1 {
+    font-size: 2.5em;
+}
+
+/*Footer*/
+
+.footer {
+    margin: 0 auto;
+    padding-top: 4em;
+    padding-bottom: 2em;
+    max-width: 900px;
+    text-align: center;
+
+    font-family: "Avenir Next" !important;
+    font-family: 'Open Sans', sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.footer p {
+    font-size: 12px;
 }
 
 /*Text*/
@@ -33,15 +283,16 @@ html, body {
     text-align: center;
     max-width: 800px;
 
-    color: #333;
+    font-family: "Avenir Next" !important;
     font-family: 'Open Sans', sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
 .text h1 {
-    font-size: 2em;
+    font-size: 2.5em;
     font-weight: 700;
 }
 
@@ -59,34 +310,52 @@ html, body {
     opacity: 0.85;
 }
 
-/*Bottom Right*/
 
-.bottom-right {
-    position: absolute;
-    bottom: 0;
-    right: 0;
+
+.teammate a {
+    padding: 10px;
 }
 
-/*Info Bar*/
-
-.info-bar {
-    margin-right: 1em;
-    margin-bottom: 1em;
-    padding: 1em;
-    /*background-color: red;*/
+/* unvisited link */
+.teammate a:link {
+    color: white;
 }
 
-.info-bar a {
-    padding: 1.5em;
-    color: #333;
-    text-decoration: none;
-    font-family: 'Lato', sans-serif;
-    transition: 0.5s;
+/* visited link */
+.teammate a:visited {
+    color: white;
 }
 
-.info-bar a:hover {
-    opacity: 0.6;
+/* mouse over link */
+.teammate a:hover {
+    -webkit-transition: 0.4s;
+    color: #00FA9A;
 }
 
+/* selected link */
+.teammate a:active {
+    color: yellow;
+}
 
+/* unvisited link */
+.contact a:link {
+    transition: 0.4s;
+    color: white;
+}
 
+/* visited link */
+.contact a:visited {
+    transition: 0.4s;
+    color: white;
+}
+
+/* mouse over link */
+.contact a:hover {
+    -webkit-transition: 1s;
+    color: #00FA9A;
+}
+
+/* selected link */
+.contact a:active {
+    color: yellow;
+}
